@@ -1,6 +1,6 @@
-# Project setup Issue Tracker
+# OS2Fleetoptimiser project setup
 
-Welcome to the **OS2Fleetoptimiser initial project setup**!
+Welcome to the **OS2Fleetoptimiser issue-tracker for the initial project setup**!
 
 This repository serves as a centralized platform to manage and track issues related to the setup of the GitHub OS2Fleetoptimiser organization and its repositories. Our goal is to ensure that the infrastructure is fully prepared to accept the project's source code. By using this issue tracker, we aim to streamline the process, ensuring that all tasks and discussions are documented and addressed efficiently.
 
