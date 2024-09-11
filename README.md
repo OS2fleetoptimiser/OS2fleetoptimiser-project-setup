@@ -8,7 +8,7 @@ This repository serves as a centralized platform to manage and track issues rela
 
 We welcome contributions! To contribute:
 
-1. **Open an issue**: Describe the task in detail.
+1. [**Open an issue**](https://github.com/OS2fleetoptimiser/project-setup/issues): Describe the task in detail.
 2. **Discuss**: Engage with other contributors to refine the issue and propose solutions.
 3. **Track progress**: Use the issue tracker to monitor the status and updates of each issue.
 
