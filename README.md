@@ -1,7 +1,7 @@
 > [!NOTE]
 > # <mark>Setup Phase Finished</mark>
 >
-> *The initial setup of repositories and infrastructure for **FleetOptimizer** was completed in January 2025. As a result, this repositpry containing the issue tracker for these initial tasks has been archived.*
+> *The initial setup of repositories and infrastructure for **FleetOptimizer** was completed in January 2025. As a result, this repository containing the issue tracker for these initial tasks has been archived.*
 
 <br>
 
