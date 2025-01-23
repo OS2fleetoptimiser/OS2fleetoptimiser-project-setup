@@ -1,10 +1,17 @@
-# OS2Fleetoptimiser project setup
+> [!NOTE]
+> # <mark>Setup Phase Finished</mark>
+>
+> *The initial setup of repositories and infrastructure for **FleetOptimizer** was completed in January 2025. As a result, this repositpry containing the issue tracker for these initial tasks has been archived.*
+
+<br>
+
+## OS2Fleetoptimiser project setup
 
 Welcome to the **OS2Fleetoptimiser issue-tracker for the initial project setup**!
 
 This repository serves as a centralized platform to manage and track issues related to the setup of the GitHub OS2Fleetoptimiser organization and its repositories. Our goal is to ensure that the infrastructure is fully prepared to accept the project's source code. By using this issue tracker, we aim to streamline the process, ensuring that all tasks and discussions are documented and addressed efficiently.
 
-## Contributing
+### Contributing
 
 We welcome contributions! To contribute:
 
